@@ -1,3 +1,5 @@
+# don't touch
+
 ## 基本玩法
 
 在遊戲時間截止前到達迷宮的終點，並且盡可能減少碰撞牆壁的次數。目前提供 6 種迷宮地圖，迷宮編號從 1 開始，預設為 1 號地圖。
@@ -19,13 +21,13 @@
 
 #### 鍵盤控制
 
-![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](../icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪輸出 -255 ~ 255，由玩家程式控制。
+![top](/assets/icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](/assets/icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪輸出 -255 ~ 255，由玩家程式控制。
 
-![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](../icons/s.svg)&nbsp;&nbsp;&nbsp;??
+![bottom](/assets/icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](/assets/icons/s.svg)&nbsp;&nbsp;&nbsp;??
 
-![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;??
+![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;??
 
-![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;??
+![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;??
 
 #### 座標系統
 

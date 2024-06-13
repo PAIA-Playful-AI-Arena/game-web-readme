@@ -1,6 +1,6 @@
 ## 版本資訊
 
-![tag-chip](../icons/tag.svg) v3.3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](../icons/python.svg) 3.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](../icons/mlGame.svg) > 9.5.3\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pygame-chip](../icons/pygame.svg) 2.0.1
+![tag-chip](/assets/icons/tag.svg) v3.3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](/assets/icons/python.svg) 3.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](/assets/icons/mlGame.svg) > 9.5.3\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pygame-chip](/assets/icons/pygame.svg) 2.0.1
 
 ## 版本更新
 

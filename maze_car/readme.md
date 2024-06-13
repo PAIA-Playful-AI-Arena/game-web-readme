@@ -1,3 +1,5 @@
+# maze car
+
 ## 基本玩法
 
 遊戲最多可以六個人同時進行，有三種遊戲模式。
@@ -26,13 +28,13 @@
 
 ##### 鍵盤控制
 
-![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](../icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 100。
+![top](/assets/icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](/assets/icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 100。
 
-![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](../icons/s.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 -100。
+![bottom](/assets/icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](/assets/icons/s.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 -100。
 
-![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;左輪輸出增加 100。
+![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;左輪輸出增加 100。
 
-![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;右輪輸出增加 100。
+![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;右輪輸出增加 100。
 
 - 上、下、左、右為 1P，Ｗ、Ａ、Ｓ、Ｄ為 2P。
 - 透過控制左右輪轉速，達到前進、後退、轉彎的目的。
