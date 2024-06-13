@@ -39,13 +39,13 @@
 
 #### AI 執行行為
 
-![dot-key](https://hackmd.io/_uploads/SJH89f-10.png)&nbsp;&nbsp;&nbsp;![dash-key](https://hackmd.io/_uploads/BypI9f-1R.png)&nbsp;&nbsp;&nbsp;1P 將球發往左/右邊。
+![dot-key](../icons/dot.svg)&nbsp;&nbsp;&nbsp;![dash-key](../icons/slash.svg)&nbsp;&nbsp;&nbsp;1P 將球發往左/右邊。
 
-![left-key](https://hackmd.io/_uploads/Sk9O9f-J0.png)&nbsp;&nbsp;&nbsp;![right-key](https://hackmd.io/_uploads/Syxgt9zWJA.png)&nbsp;&nbsp;&nbsp;1P 往左/右移動板子，每次移動 5px。
+![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;1P 往左/右移動板子，每次移動 5px。
 
-![q-key](https://hackmd.io/_uploads/HJCF9Gb1A.png)&nbsp;&nbsp;&nbsp;![e-key](https://hackmd.io/_uploads/ByX9qfZyC.png)&nbsp;&nbsp;&nbsp;2P 將球發往左/右邊
+![q-key](../icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](../icons/e.svg)&nbsp;&nbsp;&nbsp;2P 將球發往左/右邊
 
-![A-key](https://hackmd.io/_uploads/H1jj5MZyR.png)&nbsp;&nbsp;&nbsp;![D-key](https://hackmd.io/_uploads/SkV3cMW1R.png)&nbsp;&nbsp;&nbsp;2P 往左/右移動板子，每次移動 5px。
+![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;2P 往左/右移動板子，每次移動 5px。
 
 #### 座標系統
 

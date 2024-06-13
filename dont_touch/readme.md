@@ -21,13 +21,13 @@
 
 #### 鍵盤控制
 
-![top](https://hackmd.io/_uploads/r1-0GQZyR.png)&nbsp;&nbsp;&nbsp;![w-key](https://hackmd.io/_uploads/H1tAfQ-yR.png)&nbsp;&nbsp;&nbsp;左右輪輸出 -255 ~ 255，由玩家程式控制。
+![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](../icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪輸出 -255 ~ 255，由玩家程式控制。
 
-![bottom](https://hackmd.io/_uploads/ry_yXmZJ0.png)&nbsp;&nbsp;&nbsp;![s-key](https://hackmd.io/_uploads/H1xgXm-JR.png)&nbsp;&nbsp;&nbsp;??
+![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](../icons/s.svg)&nbsp;&nbsp;&nbsp;??
 
-![left-key](https://hackmd.io/_uploads/Hkil7mWyA.png)&nbsp;&nbsp;&nbsp;![A-key](https://hackmd.io/_uploads/B1J-mXZJA.png)&nbsp;&nbsp;&nbsp;??
+![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;??
 
-![right-key](https://hackmd.io/_uploads/SJqbXmWkR.png)&nbsp;&nbsp;&nbsp;![D-key](https://hackmd.io/_uploads/rykGmXbkR.png)&nbsp;&nbsp;&nbsp;??
+![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;??
 
 #### 座標系統
 

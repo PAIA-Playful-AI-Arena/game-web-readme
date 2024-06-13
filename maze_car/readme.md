@@ -26,13 +26,13 @@
 
 ##### 鍵盤控制
 
-![top](https://hackmd.io/_uploads/S1j_UfbkA.png)&nbsp;&nbsp;&nbsp;![w-key](https://hackmd.io/_uploads/Hyj1Tf-y0.png)&nbsp;&nbsp;&nbsp;左右輪固定輸出 100。
+![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;![w-key](../icons/w.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 100。
 
-![bottom](https://hackmd.io/_uploads/B1wYUGZ10.png)&nbsp;&nbsp;&nbsp;![s-key](https://hackmd.io/_uploads/SyNgaM-yC.png)&nbsp;&nbsp;&nbsp;左右輪固定輸出 -100。
+![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;![s-key](../icons/s.svg)&nbsp;&nbsp;&nbsp;左右輪固定輸出 -100。
 
-![left-key](https://hackmd.io/_uploads/SkE5Lf-JR.png)&nbsp;&nbsp;&nbsp;![A-key](https://hackmd.io/_uploads/r13xpMZy0.png)&nbsp;&nbsp;&nbsp;左輪輸出增加 100。
+![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;左輪輸出增加 100。
 
-![right-key](https://hackmd.io/_uploads/SyncUfbyC.png)&nbsp;&nbsp;&nbsp;![D-key](https://hackmd.io/_uploads/ryM-TzWJ0.png)&nbsp;&nbsp;&nbsp;右輪輸出增加 100。
+![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;右輪輸出增加 100。
 
 - 上、下、左、右為 1P，Ｗ、Ａ、Ｓ、Ｄ為 2P。
 - 透過控制左右輪轉速，達到前進、後退、轉彎的目的。

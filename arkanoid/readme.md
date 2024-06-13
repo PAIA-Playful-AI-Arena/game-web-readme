@@ -33,13 +33,13 @@
 
 #### AI 執行行為
 
-![A-key](https://hackmd.io/_uploads/BJKs8fe1R.png)&nbsp;&nbsp;&nbsp;選擇左邊發球。
+![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;選擇左邊發球。
 
-![D-key](https://hackmd.io/_uploads/HkunUfxJ0.png)&nbsp;&nbsp;&nbsp;選擇右邊發球。
+![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;選擇右邊發球。
 
-![left-key](https://hackmd.io/_uploads/HkKaIGlyR.png)&nbsp;&nbsp;&nbsp;往左移動板子，每次移動 5px。
+![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;往左移動板子，每次移動 5px。
 
-![right-key](https://hackmd.io/_uploads/Hk30Izg1C.png)&nbsp;&nbsp;&nbsp;往右移動板子，每次移動 5px。
+![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;往右移動板子，每次移動 5px。
 
 #### 座標系統
 

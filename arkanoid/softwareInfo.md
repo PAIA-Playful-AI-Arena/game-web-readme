@@ -1,6 +1,6 @@
 ## 版本資訊
 
-![tag-chip](https://hackmd.io/_uploads/Sy8dnMgJC.png) v2.3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](https://hackmd.io/_uploads/Bydc2GxkR.png) 3.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](https://hackmd.io/_uploads/r1-onfgy0.png) > 9.5.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pygame-chip](https://hackmd.io/_uploads/rymThMx1R.png) 2.0.1
+![tag-chip](../icons/tag.svg) v2.3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](../icons/python.svg) 3.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](../icons/mlGame.svg) > 9.5.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pygame-chip](../icons/pygame.svg) 2.0.1
 
 ## 版本更新
 

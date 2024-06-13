@@ -34,13 +34,13 @@
 
 #### 行動機制
 
-![top](https://hackmd.io/_uploads/S1j_UfbkA.png)&nbsp;&nbsp;&nbsp;車子以 3px/frame 的速度向左平移
+![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;車子以 3px/frame 的速度向左平移
 
-![bottom](https://hackmd.io/_uploads/B1wYUGZ10.png)&nbsp;&nbsp;&nbsp;車子以 3px/frame 的速度向右平移
+![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;車子以 3px/frame 的速度向右平移
 
-![left-key](https://hackmd.io/_uploads/SkE5Lf-JR.png)&nbsp;&nbsp;&nbsp;車子向前加速
+![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;車子向前加速
 
-![right-key](https://hackmd.io/_uploads/SyncUfbyC.png)&nbsp;&nbsp;&nbsp;車子剎車減速
+![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;車子剎車減速
 
 車子的最高速度為 15px/frame，當車子左右平移時速度將會略微下降為 14.5px/frame。
 車子沒有加速或剎車時，會以 0.9px/frame 左右的速度怠速前進。
