@@ -4,9 +4,7 @@
 
 `遊戲目標`&nbsp;&nbsp;&nbsp; 在遊戲時間截止前到達迷宮的終點，並且盡可能減少碰撞牆壁的次數。
 
-`排名條件`&nbsp;&nbsp;&nbsp; 幽浮所走的距離：經過的檢查點愈多則排名愈前。
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;幽浮與牆壁碰撞次數：若兩台走經的檢查點數量相同，則碰撞次數少者排名愈前。
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;幽浮前進速度：若前兩項評分依據皆平手，則比較走到最末檢查點時的遊戲時間，&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 愈早走到者排名愈前。
+`排名條件`&nbsp;&nbsp;&nbsp; 幽浮所走的距離：經過的檢查點愈多則排名愈前。幽浮與牆壁碰撞次數：若兩台走經的檢查點數量相同，則碰撞次數少者排名愈前。幽浮前進速度：若前兩項評分依據皆平手，則比較走到最末檢查點時的遊戲時間，愈早走到者排名愈前。
 
 ## 遊戲系統
 

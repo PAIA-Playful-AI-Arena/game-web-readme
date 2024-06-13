@@ -6,9 +6,12 @@
 - **重生模式**：玩家與其他車子發生碰撞時並不會出局，唯速度減速為 0，並進入三秒的無敵時間，此三秒內與其他車子碰撞不會導致玩家降速。
 - **金幣模式**：玩家之間可以控制車子爭奪金幣。
 
-`遊戲目標` &nbsp;&nbsp;&nbsp;**普通模式**：以最快的速度到達終點。
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **金幣模式**：在遊戲時間截止前，盡可能吃到更多的金幣
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **重生模式**：以最快的速度到達終點。
+`遊戲目標`
+**普通模式**：以最快的速度到達終點。
+
+**金幣模式**：在遊戲時間截止前，盡可能吃到更多的金幣
+
+**重生模式**：以最快的速度到達終點。
 
 `失敗條件`&nbsp;&nbsp;&nbsp; 車子在遊戲過程中被淘汰，即算失敗。
 
