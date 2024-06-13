@@ -1,3 +1,5 @@
+# tank man
+
 ## 基本玩法
 
 2~6 位玩家進行團隊對抗賽，GreenTeam 為綠色坦克車，BlueTeam 為藍色坦克車，每隊最多 3 人。透過回傳遊戲指令，操控玩家與射擊砲彈，場上會有各類補給站，可以移動坦克車經過補給站獲取資源。
@@ -38,25 +40,25 @@
 
 #### 鍵盤控制
 
-![top](../icons/top.svg)&nbsp;&nbsp;&nbsp;![bottom](../icons/bottom.svg)&nbsp;&nbsp;&nbsp;![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;1P 的移動和轉彎控制
+![top](/assets/icons/top.svg)&nbsp;&nbsp;&nbsp;![bottom](/assets/icons/bottom.svg)&nbsp;&nbsp;&nbsp;![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;1P 的移動和轉彎控制
 
-![z-key](../icons/z.svg)&nbsp;&nbsp;&nbsp;![x-key](../icons/x.svg)&nbsp;&nbsp;&nbsp;1P 砲管的左/右旋轉控制
+![z-key](/assets/icons/z.svg)&nbsp;&nbsp;&nbsp;![x-key](/assets/icons/x.svg)&nbsp;&nbsp;&nbsp;1P 砲管的左/右旋轉控制
 
-![m-key](../icons/m.svg)&nbsp;&nbsp;&nbsp;1P 的射擊鍵
+![m-key](/assets/icons/m.svg)&nbsp;&nbsp;&nbsp;1P 的射擊鍵
 
-![w-key](../icons/w.svg)&nbsp;&nbsp;&nbsp;![s-key](../icons/s.svg)&nbsp;&nbsp;&nbsp;![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;2P 的移動和轉彎控制
+![w-key](/assets/icons/w.svg)&nbsp;&nbsp;&nbsp;![s-key](/assets/icons/s.svg)&nbsp;&nbsp;&nbsp;![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;2P 的移動和轉彎控制
 
-![q-key](../icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](../icons/e.svg)&nbsp;&nbsp;&nbsp;2P 砲管的左/右旋轉控制
+![q-key](/assets/icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](/assets/icons/e.svg)&nbsp;&nbsp;&nbsp;2P 砲管的左/右旋轉控制
 
-![f-key](../icons/f.svg)&nbsp;&nbsp;&nbsp;2P 的射擊鍵
+![f-key](/assets/icons/f.svg)&nbsp;&nbsp;&nbsp;2P 的射擊鍵
 
-![i-key](../icons/i.svg)&nbsp;&nbsp;&nbsp;![j-key](../icons/j.svg)&nbsp;&nbsp;&nbsp;![k-key](../icons/k.svg)&nbsp;&nbsp;&nbsp;![l-key](../icons/l.svg)&nbsp;&nbsp;&nbsp;上下左右移動遊戲畫面
+![i-key](/assets/icons/i.svg)&nbsp;&nbsp;&nbsp;![j-key](/assets/icons/j.svg)&nbsp;&nbsp;&nbsp;![k-key](/assets/icons/k.svg)&nbsp;&nbsp;&nbsp;![l-key](/assets/icons/l.svg)&nbsp;&nbsp;&nbsp;上下左右移動遊戲畫面
 
-![o-key](../icons/o.svg)&nbsp;&nbsp;&nbsp;![u-key](../icons/u.svg)&nbsp;&nbsp;&nbsp;放大/縮小遊戲畫面
+![o-key](/assets/icons/o.svg)&nbsp;&nbsp;&nbsp;![u-key](/assets/icons/u.svg)&nbsp;&nbsp;&nbsp;放大/縮小遊戲畫面
 
-![h-key](../icons/h.svg)&nbsp;&nbsp;&nbsp;可隱藏畫面中的遊戲資訊。
+![h-key](/assets/icons/h.svg)&nbsp;&nbsp;&nbsp;可隱藏畫面中的遊戲資訊。
 
-![p-key](../icons/p.svg)&nbsp;&nbsp;&nbsp;可暫停遊戲。（mlgame 10.2 後版本才有效）
+![p-key](/assets/icons/p.svg)&nbsp;&nbsp;&nbsp;可暫停遊戲。（mlgame 10.2 後版本才有效）
 
 #### 座標系統
 

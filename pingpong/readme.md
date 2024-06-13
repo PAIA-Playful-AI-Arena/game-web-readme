@@ -1,3 +1,5 @@
+# pingpong
+
 ## 基本玩法
 
 遊戲最多可以兩個人同時進行，1P 位在下半部，2P 位在上半部，執行遊戲時玩家隨機選定位置，因此 AI 設計應該考慮位置條件。
@@ -41,13 +43,13 @@
 
 #### AI 執行行為
 
-![dot-key](../icons/dot.svg)&nbsp;&nbsp;&nbsp;![dash-key](../icons/slash.svg)&nbsp;&nbsp;&nbsp;1P 將球發往左/右邊。
+![dot-key](/assets/icons/dot.svg)&nbsp;&nbsp;&nbsp;![dash-key](/assets/icons/slash.svg)&nbsp;&nbsp;&nbsp;1P 將球發往左/右邊。
 
-![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;1P 往左/右移動板子，每次移動 5px。
+![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;1P 往左/右移動板子，每次移動 5px。
 
-![q-key](../icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](../icons/e.svg)&nbsp;&nbsp;&nbsp;2P 將球發往左/右邊
+![q-key](/assets/icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](/assets/icons/e.svg)&nbsp;&nbsp;&nbsp;2P 將球發往左/右邊
 
-![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;2P 往左/右移動板子，每次移動 5px。
+![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;2P 往左/右移動板子，每次移動 5px。
 
 #### 座標系統
 

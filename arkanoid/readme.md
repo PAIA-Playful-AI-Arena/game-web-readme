@@ -1,3 +1,5 @@
+# arkanoid
+
 ## **基本玩法**
 
 設計你的 AI 完成自動發球與左右移動板子接球，目標清除所有磚塊得到勝利。用越少次數清除所有磚塊，你就是厲害的打磚塊大師！
@@ -34,13 +36,13 @@
 
 #### AI 執行行為
 
-![A-key](../icons/a.svg)&nbsp;&nbsp;&nbsp;選擇左邊發球。
+![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;選擇左邊發球。
 
-![D-key](../icons/d.svg)&nbsp;&nbsp;&nbsp;選擇右邊發球。
+![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;選擇右邊發球。
 
-![left-key](../icons/left.svg)&nbsp;&nbsp;&nbsp;往左移動板子，每次移動 5px。
+![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;往左移動板子，每次移動 5px。
 
-![right-key](../icons/right.svg)&nbsp;&nbsp;&nbsp;往右移動板子，每次移動 5px。
+![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;往右移動板子，每次移動 5px。
 
 #### 座標系統
 
