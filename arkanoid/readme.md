@@ -6,7 +6,11 @@
 
 `遊戲目標` &nbsp;&nbsp;&nbsp;破壞所有磚塊
 
+<br />
+
 `失敗條件` &nbsp;&nbsp;&nbsp;沒有接到球
+
+<br />
 
 # 遊戲系統
 
