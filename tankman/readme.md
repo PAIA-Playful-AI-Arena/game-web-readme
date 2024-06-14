@@ -1,6 +1,10 @@
 # 基本玩法
 
+<br />
+
 2~6 位玩家進行團隊對抗賽，GreenTeam 為綠色坦克車，BlueTeam 為藍色坦克車，每隊最多 3 人。透過回傳遊戲指令，操控玩家與射擊砲彈，場上會有各類補給站，可以移動坦克車經過補給站獲取資源。
+
+<br />
 
 `遊戲目標` &nbsp;&nbsp;&nbsp; 時間內殲滅敵對，或高分隊伍獲勝。
 分數計算方式：
@@ -8,9 +12,15 @@
 每擊中一次牆壁 _ `1` 分。
 擊破牆壁 \* `5` 分。
 
+<br />
+
 `失敗條件`&nbsp;&nbsp;&nbsp; 生命歸零，或遊戲時間結束時分數較敵隊低。
 
+<br />
+
 # 遊戲系統
+
+<br />
 
 ## 坦克車
 
@@ -37,6 +47,8 @@
 - 與玩家或子彈碰撞後消失，30 幀後隨機位置顯示。
 
 ## 鍵盤控制
+
+<br />
 
 ![top](/assets/icons/top.svg)&nbsp;&nbsp;&nbsp;![bottom](/assets/icons/bottom.svg)&nbsp;&nbsp;&nbsp;![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;1P 的移動和轉彎控制
 
