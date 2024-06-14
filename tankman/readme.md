@@ -70,6 +70,9 @@
 
 ![p-key](/assets/icons/p.svg)&nbsp;&nbsp;&nbsp;可暫停遊戲。（mlgame 10.2 後版本才有效）
 
+<br />
+<br />
+
 ## 座標系統
 
 - 單位為 px。

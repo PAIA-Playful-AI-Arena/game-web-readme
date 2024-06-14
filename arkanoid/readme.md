@@ -4,13 +4,15 @@
 
 設計你的 AI 完成自動發球與左右移動板子接球，目標清除所有磚塊得到勝利。用越少次數清除所有磚塊，你就是厲害的打磚塊大師！
 
-<br />
-
 `遊戲目標` &nbsp;&nbsp;&nbsp;破壞所有磚塊
-`失敗條件` &nbsp;&nbsp;&nbsp;沒有接到球
+
 <br />
 
-# **遊戲系統**
+`失敗條件` &nbsp;&nbsp;&nbsp;沒有接到球
+
+<br />
+
+# 遊戲系統
 
 <br />
 
@@ -49,8 +51,6 @@
 ![left-key](/assets/icons/left.svg)&nbsp;&nbsp;&nbsp;往左移動板子，每次移動 5px。
 
 ![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;往右移動板子，每次移動 5px。
-
-<br />
 
 ## 座標系統
 

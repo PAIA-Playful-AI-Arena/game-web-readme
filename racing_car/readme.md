@@ -56,6 +56,8 @@
 
 ![right-key](/assets/icons/right.svg)&nbsp;&nbsp;&nbsp;車子剎車減速
 
+<br />
+
 車子的最高速度為 15px/frame，當車子左右平移時速度將會略微下降為 14.5px/frame。
 車子沒有加速或剎車時，會以 0.9px/frame 左右的速度怠速前進。
 
