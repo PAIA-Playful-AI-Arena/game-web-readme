@@ -20,6 +20,8 @@
 
 `平手條件`&nbsp;&nbsp;&nbsp; 球速超過 `40`
 
+<br />
+
 `\*獲勝分數`：指定遊戲結束的分數，預設為 3。當任一方得到指定的分數時，就結束遊戲。
 
 <br />
@@ -60,6 +62,8 @@
 ![q-key](/assets/icons/q.svg)&nbsp;&nbsp;&nbsp;![e-key](/assets/icons/e.svg)&nbsp;&nbsp;&nbsp;2P 將球發往左/右邊
 
 ![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;2P 往左/右移動板子，每次移動 5px。
+
+<br />
 
 ## 座標系統
 
