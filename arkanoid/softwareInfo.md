@@ -12,13 +12,3 @@
 
 v2.3.2&nbsp;&nbsp;&nbsp;&nbsp;--
 v2.3.1&nbsp;&nbsp;&nbsp;&nbsp;更新程式碼內容，以運行於 MLGame 9.5.\*以後版本。
-
-<br />
-
-# 自訂關卡地圖
-
-<br />
-
-除了 PAIA 提供的關卡，你也可以嘗試自行設計關卡，讓敲擊的磚塊出現在不同位置來營造更多遊戲樂趣，甚至可以透過
-
-[地圖編輯器](./asset/tool/arkanoid_map_editor.exe)

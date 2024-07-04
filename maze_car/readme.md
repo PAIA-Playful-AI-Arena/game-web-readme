@@ -57,3 +57,21 @@
 - 自走車 12.5 x 10 cm。
 - 檢查點 15 x 15 cm。
 - 終點 15 x 15 cm。
+
+## 自訂關卡
+
+<br />
+
+除了 PAIA 提供的關卡，你也可以嘗試自行設計地圖關卡，甚至可以透過[自訂競賽](https://)邀請朋友一起來挑戰喔！
+
+<br />
+
+[地圖編輯器](https://)
+
+<br />
+
+## 進階說明
+
+<br />
+
+[GITHUB](https://github.com/PAIA-Playful-AI-Arena/pingpong)

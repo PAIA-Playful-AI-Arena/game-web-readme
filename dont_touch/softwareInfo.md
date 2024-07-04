@@ -11,11 +11,3 @@
 <br />
 
 v1.2.0&nbsp;&nbsp;&nbsp;&nbsp;更新程式碼內容，以運行於 MLGame 9.5.\*以後版本。
-
-<br />
-
-# 進階說明
-
-<br />
-
-[GITHUB](https://github.com/PAIA-Playful-AI-Arena/dont_touch)
