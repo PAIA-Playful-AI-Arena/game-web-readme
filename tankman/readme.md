@@ -77,13 +77,6 @@
 - 螢幕大小 1000 x 600。
 - 單元格 25 x 25，可放置一個物件。
 
-## 圖片資源
-
-- [Green Tank／Blue Tank](https://linevoom.line.me/user/_dV001P0rSN_bh8zGE0q4jmdr4Fn5d-j73cLrjTc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)
-- [Bullet](https://linevoom.line.me/user/_dV001P0rSN_bh8zGE0q4jmdr4Fn5d-j73cLrjTc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)
-- [Hourglass](https://opengameart.org/content/animated-hourglass)
-- [Other Object](https://opengameart.org/content/simple-shooter-icons)
-
 ## 音效資源
 
 - [BGM](https://opengameart.org/content/commando-team-action-loop-cut)
