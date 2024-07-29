@@ -10,7 +10,7 @@
 
 <br />
 v3.0.1
-    1. 更新遊戲物件尺寸，更新遊戲畫面
-    2. 調整資料格式，符合 `MLGame 10.4.6a2` 以後版本
-v2.3.2&nbsp;&nbsp;&nbsp;&nbsp;--
-v2.3.1&nbsp;&nbsp;&nbsp;&nbsp;更新程式碼內容，以運行於 MLGame 9.5.\*以後版本。
+1. 更新遊戲物件尺寸，更新遊戲畫面
+2. 調整資料格式，符合 `MLGame 10.4.6a2` 以後版本
+   v2.3.2&nbsp;&nbsp;&nbsp;&nbsp;--
+   v2.3.1&nbsp;&nbsp;&nbsp;&nbsp;更新程式碼內容，以運行於 MLGame 9.5.\*以後版本。
