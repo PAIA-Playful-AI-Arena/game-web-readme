@@ -76,3 +76,8 @@
 - 單位為 px。
 - 螢幕大小 1000 x 600。
 - 單元格 25 x 25，可放置一個物件。
+
+## 音效資源
+
+- [BGM](https://opengameart.org/content/commando-team-action-loop-cut)
+- [SHOOT](https://opengameart.org/content/random-low-quality-sfx)
