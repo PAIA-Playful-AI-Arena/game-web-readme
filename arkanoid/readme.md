@@ -76,7 +76,7 @@
 
 <br />
 
-除了 PAIA 提供的關卡，你也可以嘗試自行設計關卡，讓磚塊出現在不同位置來營造更多遊戲樂趣，也可以使用[地圖編輯器](./asset/tool/arkanoid_map_editor.exe)自行編輯地圖。
+除了 PAIA 提供的關卡，你也可以嘗試自行設計關卡，讓磚塊出現在不同位置來營造更多遊戲樂趣，請參考[自訂地圖教學](https://github.com/PAIA-Playful-AI-Arena/arkanoid?tab=readme-ov-file#%E8%87%AA%E8%A8%82%E9%97%9C%E5%8D%A1%E5%9C%B0%E5%9C%96-1)。
 
 # 適用賽制
 - `闖關賽`
