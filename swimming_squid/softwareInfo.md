@@ -2,13 +2,28 @@
 
 <br />
 
-![tag-chip](/assets/icons/tag.svg) v4.0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](/assets/icons/python.svg) > 3.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](/assets/icons/mlGame.svg) > 10.4.6a2&nbsp;&
+![tag-chip](/assets/icons/tag.svg) v2.5.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python-chip](/assets/icons/python.svg) > 3.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![mlgame-chip](/assets/icons/mlGame.svg) > 10.6.0&nbsp;&
 
 <br />
 
 # 版本更新
 
-v4.0.1
 
-1. 更新遊戲畫面
-2. 更新回傳資料格式，符合 `mlgame 10.4.6a2` 以上的規範
+## [2.5.2] - 2026-02-26
+### 變更
+- 遊戲視覺
+- 調整回傳資料的格式，讓單人遊戲與對戰版的格式可相容。
+
+
+## [2.5.0b4] - 2024-09-23
+### 新增
+- 新增分數特效
+### 變更
+- 更新播音樂音效的方式
+- 調整回傳資料的格式，讓單人遊戲與對戰版的格式可相容。
+
+
+## [2.4.2] - 2024-07-18
+### 變更
+- 食物將會隨機生成。
+- 更新文件與內容。
